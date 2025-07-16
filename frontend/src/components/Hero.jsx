@@ -65,7 +65,7 @@ const Hero = () => {
         transition={{ duration: 1 }}
         className="relative z-10 max-w-3xl text-center px-4 py-8"
       >
-        <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-pink-500">
+        <h1 className="text-4xl sm:text-5xl lg:text-7xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-pink-500">
           Hi, I'm Ankit Baghel
         </h1>
 
